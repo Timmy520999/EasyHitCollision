@@ -1,5 +1,4 @@
-# Easy Hit Collision
-Easy Hit Collision Plugin
+# Easy Hit Collision Plugin
 
 ## 1. After downloading the plugin from the Fab Marketplace, search for "Easy Hit Collision System" in the UE Plugins panel and enable it. Then search for State Tree and enable the built-in UE State Tree plugin. Restart Unreal Engine.
 

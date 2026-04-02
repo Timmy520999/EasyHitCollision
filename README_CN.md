@@ -1,5 +1,4 @@
-# Easy Hit Collision
-Easy Hit Collision Plugin
+# Easy Hit Collision Plugin
 
 ## 1. 从Fab市场下载插件后，在UE插件栏下搜索 "Easy Hit Collision System"，勾选后，再搜索 State Tree，启用UE自带的状态树插件，重启UE。
 
