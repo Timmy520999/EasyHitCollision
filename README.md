@@ -1,2 +1,0 @@
-# EasyHitCollision
-EasyHitCollision Document
