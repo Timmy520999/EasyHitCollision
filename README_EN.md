@@ -10,7 +10,7 @@
 
 <img src="./IMG/2.png">
 
-## 3. Add sockets to the weapon -- Static Mesh or Skeletal Mesh are both supported.
+## 3. Add sockets to the weapon — Skeletal Mesh is required.<**If using a Static Mesh, please convert it to a Skeletal Mesh first.>
     1. Right-click the root tree and add sockets. Add at least 2 sockets.
     **You can add multiple segments of sockets to the weapon. If the weapon is not highly curved, it is recommended to add only two sockets.
     **The Easy Hit Collision component added to the character supports multiple segments, so there is no need to add an excessive number of sockets here.
@@ -37,7 +37,7 @@
 
 <img src="./IMG/5.jpg">
 
-## 6. Follow the numbered order in the image to set up! -- Anim Montage Notify Setup <Required>
+## 6. Follow the numbered order in the image to set up! -- Anim Montage Notify Setup <**Required>
 
     1. In the player character's attack animation montage, select a track, right-click and choose Montage State Notify, then find AnimNotify_HitCollision.
     Adjust the positions where collision detection starts and ends.
@@ -45,7 +45,7 @@
 
 <img src="./IMG/7.png">
 
-## 7. Follow the numbered order in the image to set up! -- Anim Montage Notify Setup <Optional Extra>
+## 7. Follow the numbered order in the image to set up! -- Anim Montage Notify Setup <**Optional Extra>
 
     1. This is an additional frame freeze feature included in the plugin. Simply add the animation state notify: AnimNotify_FrameDrop.
     2. In the Details panel, check your desired mode.
